@@ -1,4 +1,3 @@
-/* global DB */
 DB = {
   characters : {
     1 : {
